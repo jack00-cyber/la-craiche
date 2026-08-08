@@ -1,0 +1,25 @@
+# 🔐 Secrets
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+
+# 🗄️ Database
+db.sqlite3
+
+# 📦 Virtual env
+venv/
+env/
+
+# ⚛️ React / Node
+node_modules/
+dist/
+build/
+
+# 🧑‍💻 Editor
+.vscode/
+
+# 💻 OS files
+.DS_Store
+Thumbs.db
